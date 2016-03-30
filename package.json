@@ -1,0 +1,16 @@
+{
+  "name": "store",
+  "description": "A super-simple data store",
+  "version": "0.0.1",
+  "main": "./js/src/index",
+  "dependencies": {
+    "combine": "aleclarson/combine#1.0.0",
+    "define": "aleclarson/define#1.0.0",
+    "has": "^1.0.1",
+    "io": "aleclarson/io#1.0.0",
+    "lotus-require": "aleclarson/lotus-require#1.0.0",
+    "named-function": "aleclarson/named-function#1.0.3",
+    "reactive-var": "aleclarson/reactive-var#1.0.6",
+    "type-utils": "aleclarson/type-utils#1.0.0"
+  }
+}
