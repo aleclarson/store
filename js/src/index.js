@@ -1,10 +1,8 @@
 var NamedFunction, ReactiveVar, Store, combine, define, has, isType, keyPath, mergeState, ref, setState, setType, sync;
 
-require("lotus-require");
-
 ref = require("type-utils"), isType = ref.isType, setType = ref.setType;
 
-NamedFunction = require("named-function");
+NamedFunction = require("NamedFunction");
 
 ReactiveVar = require("reactive-var");
 

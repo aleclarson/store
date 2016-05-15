@@ -1,8 +1,7 @@
 
-require "lotus-require"
-
 { isType, setType } = require "type-utils"
-NamedFunction = require "named-function"
+
+NamedFunction = require "NamedFunction"
 ReactiveVar = require "reactive-var"
 combine = require "combine"
 define = require "define"
